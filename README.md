@@ -4,19 +4,24 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+Barry Wang
+Alex Yu
+Keven Ni
+Nicole Wang
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+(todo)See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+This app is a work out notebook to record your type, duration, and weight of your work out, which can be generated to graphs to see your imporvement.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+(每个人四个)
+As a , I want [some goal] so that [some reason]., where [type of user], [some goal] and `[some reason]
+As a [type of user], I want [some goal] so that [some reason]., where [type of user], [some goal] and `[some reason]
 
 ## Activity Diagrams
 

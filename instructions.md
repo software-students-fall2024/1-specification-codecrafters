@@ -48,6 +48,10 @@ Draw UML Activity Diagrams showing how a user uses the app to fulfill two of the
 
 For each diagram, place the text of the corresponding user story and an image of the Activity Diagram into the `README.md` file in the appropriate place.
 
+1. 找到适合的动作，并教会怎么做
+2. 制定合适的健身计划
+3. keep track of 自己的 improvement
+
 ## Wireframe diagrams
 
 Create a set of wireframe diagrams representing every screen of the application. Wireframes are black-and-white diagrams that show the general layout of the screen, and the content that appears on each screen, but not the actual colors, images, fonts, or other visual design elements that will be used in the final product.
@@ -59,10 +63,12 @@ Convert the wireframe diagrams into a clickable prototype. These should be compl
 By using the clickable prototype, a non-technical person who is not closely involved with the project should be able to understand what the application is and how it works. Nothing should be left to the imagination.
 
 Place a link to the published clickable prototype in the `README.md` file in the appropriate place. The link must not require a user to log in to view the prototype.
+（根据wireframe来做）
 
 ## Stakeholder demo
 
 You may be asked to present your work during class on the exercise due date. Presentations should consist of a very brief explanation of the project concept and a demonstration of the clickable prototype. The entire presentation should be well organized to clearly show the core functionality of the app and should last no more than 5 minutes.
+（做完了在做）
 
 ## Submit your work
 
