@@ -30,21 +30,17 @@ Frank, 22, is a fellow NYU student who has been working out for six months. Whil
 
 
 **Stakeholder Profile**:  
-Sarah, 21, is an NYU student who has been focusing on improving her fitness by losing weight while also building her athletic ability. Her goal isn't just weight loss; she wants to enhance her overall endurance and strength through a combination of aerobic exercises and strength training. Sarah is relatively new to structured workouts and seeks guidance on balancing both aspects of her fitness journey.
+Sarah, 21, is a NYC citizen who has been focusing on improving her fitness by losing weight while also building her athletic ability. Her goal isn't just weight loss; she wants to enhance her overall endurance and strength through a combination of aerobic exercises and strength training. Sarah is relatively new to structured workouts and seeks guidance on balancing both aspects of her fitness journey.
 
 **Goals/Needs**:  
 1. **Combine Weight Loss with Athletic Training**: Sarah wants a plan that not only helps her lose weight but also boosts her overall fitness, including strength and endurance.
 2. **Track Both Strength and Cardio Metrics**: She needs a way to measure progress in both her aerobic capacity and strength, ensuring her workouts are balanced.
 3. **Customize Workout Plans for Dual Goals**: Sarah wants a workout routine that targets fat loss and improves her sports performance, but she finds it challenging to balance the two effectively.
-4. **Stay Engaged with Varied Workouts**: To prevent boredom and stay motivated, Sarah prefers varied workout routines that include strength training, cardio, and sport-specific exercises.
 
 **Problems/Frustrations**:  
 1. **Difficulty Balancing Cardio and Strength**: Sarah finds it hard to strike a balance between strength training and aerobic exercises, often feeling unsure which to prioritize during her gym sessions.
 2. **Plateau in Weight Loss**: She feels like she's hitting a plateau in her weight loss journey and wants to make sure she's progressing in both fitness and weight management.
 3. **Struggling to Measure Performance**: Sarah finds it challenging to quantify her improvements in athletic ability, especially with tracking endurance or sports-related metrics.
-4. **Boredom with Repetitive Workouts**: Doing the same workouts repeatedly leads to a lack of motivation, making it harder for her to stick to a routine
-
-
 ## Product Vision Statement
 
 This app is a work out notebook to record your type, duration, and weight of your work out, which can be generated to graphs to see your imporvement.
