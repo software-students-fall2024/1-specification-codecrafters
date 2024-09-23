@@ -46,13 +46,13 @@ This app is a comprehensive fitness tracker that empowers users at all fitness l
 ## User Requirements
 
 1. As a fitness beginner user, I want to create a personalized fitness plan for me based on my fitness goals and body type so that I can easily get started and track my progress.
-2. As a user, I want to log my workout duration and sets so that I can optimize my efficiency during training.
+2. As a user, I want to record and save my workout duration and settings so that I don't have to re-enter this information the next time I exercise.
 3. As an experienced fitness user, I want to be able to customize and modify the fitness plan so that it can be flexibly adjusted according to my actual situation.
 4. As a user who want to manage weight, I want to be able to record my weight changes in the app so that I can check my weight progress at any time.
 5. As a user who want to manage body fat, I want to be able to record and view my body fat percentage changes to track my progress at any time.
 6. As a fitness beginner user, I want to be able to view detailed instructions and video guidance for each fitness move so that I can ensure that I perform each move correctly.
 7. As a user, I want to be able to view my daily fitness goals in real time and check in to complete them so that I can stay motivated and stick to fitness.
-8. As a smart scale user, I want to connect to a smart scale and automatically record weight and body fat percentage data so that I can reduce the trouble of manual input.
+8. As a smart scale user, I want to connect to my smart scale and automatically record weight and body fat percentage data so that I can reduce the trouble of manual input.
 9. As a user, I want to be able to track my fitness improvements (such as strength, endurance, etc.) to motivate me to continue fitness.
 10. As a user, I want to see how many consecutive days I have stayed consistent with my workouts so that I can stay motivated to continue exercising.
 
