@@ -62,4 +62,4 @@ This app is a comprehensive fitness tracker that empowers users at all fitness l
 
 ## Clickable Prototype
 
-![Clickable Prototype Link](https://www.figma.com/design/YCjg2rdmz5j1kQYa9VHqQA/WorkOut-Notebook-(Copy)?node-id=0-1&t=PzTv0D0kD9CfKfva-1)
+[Clickable Prototype Link](https://www.figma.com/design/YCjg2rdmz5j1kQYa9VHqQA/WorkOut-Notebook-(Copy)?node-id=0-1&t=PzTv0D0kD9CfKfva-1)
